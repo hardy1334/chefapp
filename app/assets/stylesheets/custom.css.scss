@@ -1,1 +1,43 @@
 @import "bootstrap";
+
+#logo {
+  float: left;
+  font-size: 1.7em;
+  color: #fff;
+  text-transform: uppercase;
+  letter-spacing: -1px;
+  font-weight: bold;
+}
+
+#logo:hover {
+  color: #fff;
+  text-decoration: none;
+}
+
+.center {
+  text-align: center;
+}
+
+.jumbotron {
+  background-image: asset-url("cover.jpeg");
+  background-size: cover;
+  height: 300px;
+}
+
+.jumbotron h1,
+h2 {
+  color: #e8e8e8;
+  text-align: center;
+  margin-bottom: 30px;
+  letter-spacing: -1px;
+  font-weight: bold;
+}
+
+.button-xlarge {
+  background-color: seagreen;
+}
+
+.button-xlarge:hover {
+  background-color: #fff;
+  text-decoration: none;
+}

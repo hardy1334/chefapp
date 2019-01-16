@@ -24,8 +24,15 @@
   height: 300px;
 }
 
-.jumbotron h1,
-h2 {
+.jumbotron h1 {
+  color: #e8e8e8;
+  text-align: center;
+  margin-bottom: 30px;
+  letter-spacing: -1px;
+  font-weight: bold;
+}
+
+.jumbotron h2 {
   color: #e8e8e8;
   text-align: center;
   margin-bottom: 30px;
@@ -40,4 +47,33 @@ h2 {
 .button-xlarge:hover {
   background-color: #fff;
   text-decoration: none;
+}
+
+footer {
+  margin-top: 45px;
+  padding-top: 5px;
+  border-top: 1px solid #eaeaea;
+  color: #777777;
+}
+
+footer a {
+  color: #555555;
+}
+
+footer a:hover {
+  color: #222;
+}
+
+footer small {
+  float: left;
+}
+
+footer ul {
+  list-style: none;
+  float: right;
+}
+
+footer ul li {
+  float: left;
+  margin-left: 15px;
 }

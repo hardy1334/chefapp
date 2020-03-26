@@ -1,6 +1,6 @@
 # README
  
-This web app helps you create new recipes like suppose a chef wants to create a recipe for **Chicken Soup** ,in this he can create that recipe and upload that which others can view and he can also view other chefs recipes. This project is currently in development phase.
+This web app helps you create new recipes like suppose a chef wants to create a recipe for **Chicken Soup** ,in this he can create that recipe and upload that which others can view and he can also view other chefs recipes. 
 
 # SCREENSHOTS
 
